@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"com.gestion.logements","c":"GestionLogementsApp","l":"GestionLogementsApp()","u":"%3Cinit%3E()"},{"p":"com.gestion.logements","c":"GestionLogementsApp","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
